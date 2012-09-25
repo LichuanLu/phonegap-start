@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.hello-world"
         version   = "2.0.0">
-    <name>Hello World俠啞嚙塡屢摑攢潑瀆焰禱繡蔣蠟軀醬頰鷗鹼麴麵萊</name>
+    <name>Hello World</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.簀騭歞鸁堮也尡鄯习丢蔺襻嬣椻驼縤蔼晽缥猽魾账鬾臿鸨瘿嬩詀鼪轛丫鱜伬幝
+        Hello World sample application that responds to the deviceready event.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
